@@ -109,6 +109,11 @@ OUTPUT_DIR = "outputs"
 MODELS_DIR = f"{OUTPUT_DIR}/models"
 FIGURES_DIR = f"{OUTPUT_DIR}/figures"
 REPORTS_DIR = f"{OUTPUT_DIR}/reports"
+ARTIFACT_DIR_Tuned = "artifacts/tuned"
+ARTIFACT_DIR_Baseline = "artifacts/baseline"
+
 """
 Centralized output directories for artifacts.
 """
+
+
